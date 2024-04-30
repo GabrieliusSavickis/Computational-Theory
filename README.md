@@ -25,3 +25,8 @@ Clone this repository to your local machine using:
 
 ```bash
 git clone https://github.com/GabrieliusSavickis/Computational-Theory.git
+```
+Navigate to the project directory:
+```
+cd countdown-numbers-solver
+```

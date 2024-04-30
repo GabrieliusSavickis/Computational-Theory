@@ -4,13 +4,12 @@ This repository hosts a Python solution designed to solve the Countdown Numbers 
 
 ## Project Description
 
-In the Countdown Numbers Game, contestants use six randomly chosen numbers and arithmetic operations (addition, subtraction, multiplication, and division) to hit a randomly generated target number. The game tests the optimization of operation sequences and the efficiency of problem-solving under tight constraints.
+In the Countdown Numbers Game, contestants use six randomly chosen numbers and arithmetic operations (addition, subtraction, multiplication, and division) to hit a randomly generated target number. The game tests the optimisation of operation sequences and the efficiency of problem-solving under tight constraints.
 
 ## Features
 
 - **Solver Algorithm**: Employs both brute-force and heuristic methods to discover possible solutions.
-- **Optimization Analysis**: Analyzes computational complexity and explores strategies to optimize the solving process.
-- **Educational Tool**: Acts as a learning aid for understanding computational paradigms and algorithm design.
+- **Optimisation Analysis**: Analyzes computational complexity and explores strategies to optimize the solving process.
 
 ## Getting Started
 

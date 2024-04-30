@@ -28,5 +28,18 @@ git clone https://github.com/GabrieliusSavickis/Computational-Theory.git
 ```
 Navigate to the project directory:
 ```
-cd countdown-numbers-solver
+cd Computational-Theory
 ```
+
+### Usage
+Select an Anaconda kernel and Run All to see both Brute Force and Recursive components compile.
+
+### How It Works
+The `solve_numbers` function tries to find a valid sequence of operations that transforms a set of given numbers into the target number. 
+It considers all permutations of numbers and operations, using a recursive strategy enhanced with memoization to improve performance.
+
+### Acknowledgements
+- Inspired by the official Countdown game show.
+- Draws on computational theory resources from academic literature referenced in the countdown.ipynb file.
+
+
